@@ -11,6 +11,7 @@ import org.springframework.scheduling.concurrent.ThreadPoolTaskExecutor;
 public class AppConfig {
 	static int i = 0;
 
+	
 	@Scheduled(fixedRate = 5000)
 	public void cleanFile()
 	{

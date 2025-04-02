@@ -1,0 +1,25 @@
+https://notebook.zohopublic.in/public/notes/bietvaf4a031eeb7245f19e651a16232e077a
+
+https://notebook.zohopublic.in/public/notes/bietv0de3bac30fbd41e7b1346bf9243ad3b2
+
+https://notebook.zohopublic.in/public/notes/bietv1d00e57bcbca4be89f155f6039985778
+https://notebook.zohopublic.in/public/notes/dcr5z97c7e76aa1454ea6a57e1a2dde4f8785-- @conditionalon 
+
+https://notebook.zohopublic.in/public/notes/bietv964a637b52be4a1bbfde8d0309040a79---dependency inj
+
+https://notebook.zohopublic.in/public/notes/bietv2018487e1de84b009904a4dfeda24def---bean,lifecycle
+
+https://notebook.zohopublic.in/public/notes/bietv379bff087eca47eaa84a3024d7e14b46---scope bean
+
+https://notebook.zohopublic.in/public/notes/bietv13e5f5aeff684305a86e2d251aa4deed ----qualifier
+
+https://notebook.zohopublic.in/public/notes/dcr5z97c7e76aa1454ea6a57e1a2dde4f8785---coditional
+
+https://notebook.zohopublic.in/public/notes/dcr5zd72620f1d2574b40a39fe1b017931423---async part1
+https://notebook.zohopublic.in/public/notes/dcr5z0896f8dfa8ad4dcfafa5d737b2b9c26d---async part 2
+
+https://notebook.zohopublic.in/public/notes/dcr5zfbbb4128be4a406682b6a13ff80ed8fa--custom interceptior 1
+
+
+https://notebook.zohopublic.in/public/notes/dcr5z502a3a0746974f36b75a50729b691d58---filters vs interceptor
+https://notebook.zohopublic.in/public/notes/dcr5z12bd30d9fbc2454e9881904115682227---aop

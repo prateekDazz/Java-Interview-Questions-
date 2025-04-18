@@ -2,6 +2,7 @@ package com.prateek.Test2;
 
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -15,10 +16,12 @@ import java.util.stream.Collectors;
 
 public class App_Concurrent {
 	public static void main(String[] args) throws InterruptedException {
-		Map<Integer, String> map = new ConcurrentHashMap<>();
+//		Map<Integer, String> map = new HashMap<>();
+		Map<Integer, String> map = new ConcurrentHashMap<Integer, String>();
      map.put(1, "a");
      map.put(2, "b");
      map.put(3, "c");
+//     Map<Integer, String> synMap =  Collections.synchronizedMap(map);This will create an concurrent modification exception
      
      Thread t1 = new Thread(()->
      {
@@ -45,7 +48,8 @@ public class App_Concurrent {
 				// TODO Auto-generated catch block
 				e1.printStackTrace();
 			}
-       	 map.put(45, "ty");
+//    		synMap.put(45, "ty");
+    		map.put(45, "ty");
 
     		
     	
